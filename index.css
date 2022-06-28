@@ -1,0 +1,35 @@
+h1{
+    color:rgb(223, 75, 48)
+}
+h2{
+    color:rgb(223, 75, 48)
+}
+.first{
+    color:brown
+}
+ul li {
+    letter-spacing :3px;
+}
+.hello{
+    text-decoration: line-through;
+}
+.mark{
+    background-color: yellow;
+}
+.bold{
+    font-weight: 600;
+}
+.italic{
+    font-style: italic;
+}
+.underline{
+    text-decoration: underline;
+}
+
+ol li{
+    letter-spacing: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#link{
+    text-decoration: none;
+}
